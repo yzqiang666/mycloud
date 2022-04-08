@@ -1,5 +1,5 @@
-# 一键部署 [ShareList](https://github.com/reruin/sharelist) 到 heroku 
+# 一键部署 [mycloud](https://github.com/yzqiang666/mycloud) 到 heroku 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-[新版ShareList](https://github.com/reruin/sharelist-heroku/tree/next)
+[mycloud](https://github.com/yzqiang666/mycloud/tree/next)
